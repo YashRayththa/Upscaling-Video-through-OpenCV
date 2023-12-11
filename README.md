@@ -31,8 +31,8 @@ from keras.applications import VGG19
 6. The video is upscaled and ready to Go.
 
 ## Advantages of this program:  
-The model works efficiently 
-The resolution significantly improves through this program
+The model works efficiently   
+The resolution significantly improves through this program  
 
 ## Drawbacks:
 This requires enormous processing time and GPU power
@@ -45,7 +45,10 @@ This requires enormous processing time and GPU power
 
 ## GoogleDrive:
 The following Google drive contains test videos, output videos, ESRGAN model & python files:
-  https://drive.google.com/drive/folders/1_Ty5arZtrQtL4zIYIYvUo3nhLQ_2TF7v?usp=sharing
+  https://drive.google.com/drive/folders/1_Ty5arZtrQtL4zIYIYvUo3nhLQ_2TF7v?usp=sharing  
+  (The output is uploaded to Drive because the file was larger than 25mb)
 
 ## Python file:  
-Video_upscaling_model.ipynb contains the code execution on test1 file and final1 is the upscaled output.
+Video_upscaling_model.ipynb contains the code execution on test1 file and final1 is the upscaled output.  
+
+## Project by Yash Rayththa
